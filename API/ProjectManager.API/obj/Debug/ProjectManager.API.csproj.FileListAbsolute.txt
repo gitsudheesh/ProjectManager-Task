@@ -53,3 +53,6 @@ C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\bin\Newtonsoft.Json
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\bin\System.Web.Http.WebHost.xml
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\obj\Debug\ProjectManager.API.dll
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\obj\Debug\ProjectManager.API.pdb
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\bin\nunit.framework.dll
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\bin\nunit.framework.pdb
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.API\bin\nunit.framework.xml

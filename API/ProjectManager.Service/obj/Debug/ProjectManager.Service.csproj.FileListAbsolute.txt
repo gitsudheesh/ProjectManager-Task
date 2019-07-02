@@ -39,3 +39,6 @@ C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\EntityFrame
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\obj\Debug\ProjectManager.Service.dll
 C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\obj\Debug\ProjectManager.Service.pdb
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\nunit.framework.dll
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\nunit.framework.pdb
+C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\nunit.framework.xml
