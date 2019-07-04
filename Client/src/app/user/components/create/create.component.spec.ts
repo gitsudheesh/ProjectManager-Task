@@ -9,6 +9,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { User } from '../../models/user';
 import { Observable } from 'rxjs/Rx';
 import { ApiResponse } from '../../../shared/models/shared';
+// import { HttpClient } from '@angular/common/http';
 
 class MockUserService {
   users: User[];
@@ -63,40 +64,42 @@ describe('CreateComponent', () => {
 
   it('should run #refreshList()', async(() => {
      const result = component.refreshList();
-     expect(component.Users.length==2);
+     const count=component.Users.length;
+    //  expect(component.Users.length==5);
+     expect(count==2);
 
   }));
 
-  it('should run #addorUpdateUser()', async(() => {
-    // const result = component.addorUpdateUser();
-  }));
+  // it('should run #addorUpdateUser()', async(() => {
+  //   // const result = component.addorUpdateUser();
+  // }));
 
-  it('should run #addUser()', async(() => {
-    // const result = component.addUser();
-  }));
+  // it('should run #addUser()', async(() => {
+  //   // const result = component.addUser();
+  // }));
 
-  it('should run #editUser()', async(() => {
-    // const result = component.editUser(userID);
-  }));
+  // it('should run #editUser()', async(() => {
+  //   // const result = component.editUser(userID);
+  // }));
 
-  it('should run #updateUser()', async(() => {
-    // const result = component.updateUser();
-  }));
+  // it('should run #updateUser()', async(() => {
+  //   // const result = component.updateUser();
+  // }));
 
-  it('should run #deleteUser()', async(() => {
-    // const result = component.deleteUser(userID);
-  }));
+  // it('should run #deleteUser()', async(() => {
+  //   // const result = component.deleteUser(userID);
+  // }));
 
-  it('should run #reset()', async(() => {
-    // const result = component.reset();
-  }));
+  // it('should run #reset()', async(() => {
+  //   // const result = component.reset();
+  // }));
 
-  it('should run #search()', async(() => {
-    // const result = component.search(searchValue);
-  }));
+  // it('should run #search()', async(() => {
+  //   // const result = component.search(searchValue);
+  // }));
 
-  it('should run #sort()', async(() => {
-    // const result = component.sort(sortKey);
-  }));
+  // it('should run #sort()', async(() => {
+  //   // const result = component.sort(sortKey);
+  // }));
 
 });

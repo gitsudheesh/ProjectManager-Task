@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\ProjectManager.Service.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-07-04" time="11:15:31">
+  <environment nunit-version="2.6.1.12217" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Administrator" machine-name="DOTNET" user="Administrator" user-domain="DOTNET" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\ProjectManager.Service.dll" executed="True" result="Success" success="True" time="0.125" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ProjectManager" executed="True" result="Success" success="True" time="0.125" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Service" executed="True" result="Success" success="True" time="0.125" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="APITester" executed="True" result="Success" success="True" time="0.125" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="TestAddProject" executed="True" result="Success" success="True" time="0.093" asserts="0">
+                    <results>
+                      <test-case name="ProjectManager.Service.APITester.TestAddProject()" executed="True" result="Success" success="True" time="0.093" asserts="0" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="TestAddUser" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="ProjectManager.Service.APITester.TestAddUser()" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="TestProjects" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="ProjectManager.Service.APITester.TestProjects()" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="TestUsers" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="ProjectManager.Service.APITester.TestUsers()" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

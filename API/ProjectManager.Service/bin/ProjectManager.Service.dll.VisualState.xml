@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\ProjectManager.Service.dll</TopNode>
+  <SelectedNode>[0-1009]C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\ProjectManager.Service.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\FinalCertAssignment\ProjectManager\API\ProjectManager.Service\bin\ProjectManager.Service.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]ProjectManager" Expanded="true" />
+    <Node UniqueName="[0-1011]ProjectManager.Service" Expanded="true" />
+    <Node UniqueName="[0-1000]ProjectManager.Service.APITester" Expanded="true" />
+    <Node UniqueName="[0-1003]ProjectManager.Service.APITester.TestAddProject" Expanded="true" />
+    <Node UniqueName="[0-1007]ProjectManager.Service.APITester.TestAddUser" Expanded="true" />
+    <Node UniqueName="[0-1001]ProjectManager.Service.APITester.TestProjects" Expanded="true" />
+    <Node UniqueName="[0-1005]ProjectManager.Service.APITester.TestUsers" Expanded="true" />
+  </Nodes>
+</VisualState>
